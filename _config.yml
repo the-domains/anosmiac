@@ -1,0 +1,14 @@
+layout_spectrum: 0.10599721828475595
+typography_spectrum: 0.07692667259834707
+color:
+  brandStrength: 0.8887522672303021
+  lightness: 0.15064376150257885
+  saturation: 0.1893366570584476
+  rhythmicContrast: 0.6803704688791186
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: anosmiac
